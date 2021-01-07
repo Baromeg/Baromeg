@@ -7,12 +7,12 @@ I decided to blend my passion for software engineering, my hospitality skills an
 
 
 
-<--
+<---
 - 🔭 I’m currently working on ...
 ```
 My portfolio
 ```
--->
+--->
 - 🌱 I’m currently learning ...
 ```
 
