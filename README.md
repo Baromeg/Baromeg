@@ -22,6 +22,7 @@ Projects that develop a better and more sustainable future.
 Circular Economy, reduce waste, collaborative economy platforms, web decentralization. All these call my attention
 ```
 - 🤔 I’m looking for help with ...
+```
 Unit testing
 ```
 - 💬 Ask me about ...
@@ -29,9 +30,9 @@ Unit testing
 My beloved city of Granada, Spain
 ```
 - 📫 How to reach me: ...
-
+```
 baromeg@gmail.com
-
+```
 - ⚡ Fun fact: ...
 ```
 You might find me speed rollerblading accross London, so watch out!
