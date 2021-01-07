@@ -35,6 +35,6 @@ baromeg@gmail.com
 ```
 - ⚡ Fun fact: ...
 ```
-You might find me speed rollerblading accross London, so watch out!
+You might find me speed-rollerblading accross the streets of London, so watch out!
 ```
 
