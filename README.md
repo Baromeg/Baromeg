@@ -13,7 +13,7 @@ My portfolio
 ```
 - 🌱 I’m currently learning ...
 ```
-Deeper React and 3d.js
+3d.js and improving my skills in React.js
 ```
 - 👯 I’m looking to collaborate on ...
 ```
