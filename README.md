@@ -1,14 +1,11 @@
-### Hello World 👋, I'm Baltasar
+### Hello World 👋,
 ```
-I've just graduated as a Software Engineer at General Assembly in a 3 month immersive couse. 
+I am Baltasar, a graduated software engineer at General Assembly.  I am eager to collaborate on projects that develop a better and more sustainable tomorrow. I seek a developer role to make impactful contributions to both sides of the stack, share my ideas, and grow in a continued-learning and knowledge-sharing environment. 
 
-I am seeking a full-stack developer role where I can share my ideas and create impactful 
-contributions, in a cooperative and knowledge-sharing environment to continue learning 
-and improving my skills, .
+I’ve thrived on leading and motivating people, improving operational processes and ultimately making customers happier. I’ve taken advantage of technology’s fast evolution to solve problems and enhance experiences, hence my admiration for the developer community.
 
-I decided to blend my passion for software engineering, my hospitality skills and my creative 
-and analytical thinking to pursue a career shift, becoming part of the solution for today’s 
-world challenges. 
+After more than 12 years of hospitality experience, I’ve decided to blend my passion for software engineering and my creative and analytical side to join this vibrant community to pursue a career change and become part of the solution for today’s world challenges.
+
 ```
 - 🔭 I’m currently working on ...
 ```
@@ -16,7 +13,7 @@ My portfolio
 ```
 - 🌱 I’m currently learning ...
 ```
-3d.js and AWS
+Unit Testing
 ```
 - 👯 I’m looking to collaborate on ...
 ```
@@ -24,10 +21,6 @@ Projects that develop a better and more sustainable future.
 
 Circular Economy, reduce waste, collaborative economy platforms, web decentralization. 
 ^ All these get my attention
-```
-- 🤔 I’m looking for help with ...
-```
-Unit testing
 ```
 - 💬 Ask me about ...
 ```
