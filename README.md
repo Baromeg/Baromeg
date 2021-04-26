@@ -12,14 +12,6 @@ software engineering, my problem-solving skills and my creativity to join the de
 career change and become part of the solution for today’s world challenges.
 
 ```
-- 🔭 I’m currently working on ...
-```
-Implementing new features to my projects using the TDD approach 
-```
-- 🌱 I’m currently learning ...
-```
-TDD Methodology
-```
 - 👯 I’m looking to collaborate on ...
 ```
 Projects that develop a better and more sustainable future.
@@ -39,4 +31,5 @@ baromeg@gmail.com
 ```
 You might find me speed-rollerblading accross the streets of London, so watch out!
 ```
-
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
