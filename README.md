@@ -39,6 +39,5 @@ You might find me speed-rollerblading accross the streets of London, so watch ou
 </div>
 - 🤪 A random joke... because why not?
 <div align="center">
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
