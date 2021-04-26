@@ -11,6 +11,9 @@ my professional trajectory, geeky mindset, passion for constant learning & self-
 a challenge is a strong endorsement of my capabilities.
 
 ```
+
+[![GitHub Baromeg](https://img.shields.io/github/followers/Baromeg?label=follow%20me&style=social)](https://github.com/Baromeg)
+
 - 👯 I’m looking to collaborate on ...
 ```
 Projects that develop a better and more sustainable future.
@@ -41,5 +44,3 @@ You might find me speed-rollerblading accross the streets of London, so watch ou
 <a href="https://open.spotify.com/user/baromeg?si=tGnvMcPEQAuDVbGdD-kKMg" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://baltasar.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FC8621.svg?&style=flat-square&logo=google%20chrome&logoColor=white" alt="Spotify"></a>
 </div>
-
-[![GitHub Baromeg](https://img.shields.io/github/followers/Baromeg?label=follow%20me&style=social)](https://github.com/Baromeg)
