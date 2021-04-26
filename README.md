@@ -26,18 +26,15 @@ My beloved city of Granada, Spain
 ```
 You might find me speed-rollerblading accross the streets of London, so watch out!
 ```
-
 - 🤪 A random joke... because why not?
 <div align="center">
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 - 📈 Github Stats
-
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baromeg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Baromeg's Github Stats">
 </div>
 - 📫 How to reach me:
-
 <div align="center">
 <a href="https://www.linkedin.com/in/baltasar-romero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/baromeg" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -45,4 +42,4 @@ You might find me speed-rollerblading accross the streets of London, so watch ou
 <a href="https://baltasar.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FC8621.svg?&style=flat-square&logo=google%20chrome&logoColor=white" alt="Spotify"></a>
 </div>
 
-[![GitHub Baromeg](https://img.shields.io/github/followers/Baromeg?label=follow&style=social)](https://github.com/Baromeg)
+[![GitHub Baromeg](https://img.shields.io/github/followers/Baromeg?label=follow%20me&style=social)](https://github.com/Baromeg)
