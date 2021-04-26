@@ -35,7 +35,7 @@ You might find me speed-rollerblading accross the streets of London, so watch ou
 </div>
 - 📈 Github Stats
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Baromeg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Baromeg's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Baromeg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FC8621&icon_color=FC8621&text_color=2e2e2e&bg_color=FAFAFA,363537" alt="Baromeg's Github Stats">
 </div>
 - 📫 How to reach me:
 <div align="center">
