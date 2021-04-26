@@ -31,6 +31,6 @@ baromeg@gmail.com
 ```
 You might find me speed-rollerblading accross the streets of London, so watch out!
 ```
-- Some jokes... because why not?
+- 🤪 A random joke... because why not?
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
