@@ -5,13 +5,6 @@
 ```
 Hi! I'm Baltasar, self-taught and graduated full-stack software engineer with an ever-evolving portfolio backing my 
 worth and potential.
-
-I seek my first React, JavaScript or Python developer role to demonstrate my adaptability & dedication, communication 
-& problem-solving skills, impacting real-world applications on both sides of the stack.
-
-After more than 12 years of hospitality background, I've taken the risk of a career shift, confident that the blend of
-my professional trajectory, geeky mindset, passion for constant learning & self-improvement, and resilience confronting 
-a challenge is a strong endorsement of my capabilities.
 ```
 
 - 👯 I’m looking to collaborate on ...
