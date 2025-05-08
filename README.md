@@ -2,7 +2,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello, I'm Baltasar!
 
-Hi! I'm Baltasar, a mid-level software engineer with a passion for creating robust, scalable, and user-centric software solutions. With a strong foundation in TypeScript, React, and Node.js, I strive to deliver high-quality code and collaborate on projects that make a meaningful impact.
+Hi! I'm Baltasar, a software engineer with a passion for creating robust, scalable, and user-centric software solutions. With a strong foundation in TypeScript, React, and Node.js, I strive to deliver high-quality code and collaborate on projects that make a meaningful impact.
 
 ---
 
